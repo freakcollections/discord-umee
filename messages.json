@@ -1,0 +1,16 @@
+{
+    "YOUR_DISCORD_TOKEN1": {
+        "wallets":[
+            {"atom": "YOUR_ATOM_WALLET1"},
+            {"umee": "YOUR_UMEE_WALLET1"},
+            {"osmo": "YOUR_OSMO_WALLET1"},
+            {"juno": "YOUR_JUNO_WALLET1"}
+    ]},
+    "YOUR_DISCORD_TOKEN2": {
+        "wallets":[
+            {"atom": "YOUR_ATOM_WALLET2"},
+            {"umee": "YOUR_UMEE_WALLET2"},
+            {"osmo": "YOUR_OSMO_WALLET2"},
+            {"juno": "YOUR_JUNO_WALLET2"}
+    ]}
+}
